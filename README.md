@@ -2,24 +2,39 @@
 
 ---
 
-## [Arkusz 1](Arkusz%201)
+## **Arkusz 1**
 
-- [Rozwiązanie](Arkusz%201/rozwiązanie)
+> [[Pobierz]()]
 
-- [Zasoby](Arkusz%201/zasoby)
+- **Rozwiązanie**
 
----
+  > [[Zobacz](Arkusz%201/rozwiązanie)] [[Pobierz]()]
 
-## [Arkusz 2](Arkusz%202)
-
-- [Rozwiązanie](Arkusz%202/rozwiązanie)
-
-- [Zasoby](Arkusz%202/zasoby)
+- **Zasoby**
+  > [[Zobacz](Arkusz%201/zasoby)] [[Pobierz]()]
 
 ---
 
-## [Arkusz 3](Arkusz%203)
+## **Arkusz 2**
 
-- [Rozwiązanie](Arkusz%203/rozwiązanie)
+> [[Pobierz]()]
 
-- [Zasoby](Arkusz%203/zasoby)
+- **Rozwiązanie**
+
+  > [[Zobacz](Arkusz%202/rozwiązanie)] [[Pobierz]()]
+
+- **Zasoby**
+  > [[Zobacz](Arkusz%202/zasoby)] [[Pobierz]()]
+
+---
+
+## Arkusz 3
+
+> [[Pobierz]()]
+
+- **Rozwiązanie**
+
+  > [[Zobacz](Arkusz%203/rozwiązanie)] [[Pobierz]()]
+
+- **Zasoby**
+  > [[Zobacz](Arkusz%203/zasoby)] [[Pobierz]()]
