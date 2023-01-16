@@ -1,0 +1,65 @@
+* {
+	/* Styl dla wszystkich selektorów */
+
+	font-family: Garamond; /* Krój czcionki */
+	text-align: center; /* Wyrównanie tekstu do środka */
+}
+
+body {
+	/* Styl dla selektora całej strony */
+
+	background-color: Lavender; /* Kolor tła */
+}
+
+header,
+footer {
+	/* Styl dla selektora nagłówka (banera) i stopki */
+
+	background-color: #af8eb5; /* Kolor tła */
+	color: white; /* Kolor tekstu */
+	padding: 10px; /* Margines wewnętrzny */
+}
+
+main {
+	/* Styl dla sekcji głównej */
+
+	display: flex; /* Wyświetlanie elementów sekcji głównej w linii (obok siebie) */
+}
+
+.left,
+.middle,
+.right {
+	/* Styl dla lewego, środkowego i prawego panelu sekcji głównej */
+
+	background-color: #e1bee7; /* Kolor tła  */
+	width: 30%; /* Szerokość */
+	height: 500px; /* Wysokość */
+	padding-top: 40px; /* Margines wewnętrzny (górny) */
+	margin: 15px; /* Margines zewnętrzny */
+	box-shadow: 10px 10px 10px DimGray; /* Cień */
+}
+
+a {
+	/* Styl dla selektora odnośnika */
+
+	color: Indigo; /* Kolor tekstu */
+	font-size: 150%; /* Rozmiar czcionki */
+	padding: 10px; /* Margines wewnętrzny */
+	font-weight: bold; /* Pogrubienie czcionki */
+}
+
+a:hover {
+	/* Styl dla selektora odnośnika po najechaniu na niego kursorem */
+
+	background-color: Indigo; /* Kolor tła */
+	color: white; /* Kolor tekstu */
+}
+
+img,
+table {
+	/* Styl dla selektora obrazka i tabeli */
+
+	border: 1px solid; /* Obramowanie */
+	width: 80%; /* Szerokość */
+	margin: 40px auto; /* Margines zewnętrzny (górny i dolny -> 40px, lewy i prawy -> automatycznie */
+}
