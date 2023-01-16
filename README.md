@@ -1,36 +1,36 @@
 # **Arkusz 1**
 
-> [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%201" target="_blank">Pobierz</a>]
+> [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%201)]
 
 - **Rozwiązanie**
 
-  > [[Zobacz](Arkusz%201/rozwiazanie)] [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%201/rozwiazanie" target="_blank">Pobierz</a>]
+  > [[Zobacz](Arkusz%201/rozwiazanie)] [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%201/rozwiazanie)]
 
 - **Zasoby**
-  > [[Zobacz](Arkusz%201/zasoby)] [<a href="https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%201/zasoby" target="_blank">Pobierz</a>]
+  > [[Zobacz](Arkusz%201/zasoby)] [[Pobierz](https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%201/zasoby)]
 
 ---
 
 # **Arkusz 2**
 
-> [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%202" target="_blank">Pobierz</a>]
+> [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%202)]
 
 - **Rozwiązanie**
 
-  > [[Zobacz](Arkusz%202/rozwiazanie)] [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%202/rozwiazanie" target="_blank">Pobierz</a>]
+  > [[Zobacz](Arkusz%202/rozwiazanie)] [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%202/rozwiazanie)]
 
 - **Zasoby**
-  > [[Zobacz](Arkusz%202/zasoby)] [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%202/zasoby" target="_blank">Pobierz</a>]
+  > [[Zobacz](Arkusz%202/zasoby)] [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%202/zasoby)]
 
 ---
 
 # Arkusz 3
 
-> [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%203" target="_blank">Pobierz</a>]
+> [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%203)]
 
 - **Rozwiązanie**
 
-  > [[Zobacz](Arkusz%203/rozwiazanie)] [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%203/rozwiazanie" target="_blank">Pobierz</a>]
+  > [[Zobacz](Arkusz%203/rozwiazanie)] [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%203/rozwiazanie)]
 
 - **Zasoby**
-  > [[Zobacz](Arkusz%203/zasoby)] [<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%203/zasoby" target="_blank">Pobierz</a>]
+  > [[Zobacz](Arkusz%203/zasoby)] [[Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Guliveer/INF.03_2023-odpowiedzi/tree/main/Arkusz%203/zasoby)]
