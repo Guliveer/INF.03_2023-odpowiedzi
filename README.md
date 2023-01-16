@@ -1,8 +1,8 @@
-## Pobierz dowolny folder z repozytorium &rarr; [DownGit](https://minhaskamal.github.io/DownGit/)
+### Pobierz dowolny folder z repozytorium &rarr; [DownGit](https://minhaskamal.github.io/DownGit/)
 
 ---
 
-## **Arkusz 1**
+# **Arkusz 1**
 
 > [[Pobierz]()]
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **Arkusz 2**
+# **Arkusz 2**
 
 > [[Pobierz]()]
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Arkusz 3
+# Arkusz 3
 
 > [[Pobierz]()]
 
