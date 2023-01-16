@@ -1,6 +1,7 @@
 # Ściąga HTML, CSS, JS, PHP, MySQL
 
 - **Pionowa** &rarr; [[Zobacz](Cheatsheet_vertical.pdf)] [[Pobierz](https://github.com/Guliveer/INF.03_2023-odpowiedzi/raw/main/Cheatsheet_vertical.pdf)]
+
 - **Pozioma** &rarr; [[Zobacz](Cheatsheet_horizontal.pdf)] [[Pobierz](https://github.com/Guliveer/INF.03_2023-odpowiedzi/raw/main/Cheatsheet_horizontal.pdf)]
 
 ---
